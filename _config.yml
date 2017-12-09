@@ -1,13 +1,13 @@
 # Site settings
-title: BY Blog
-SEOTitle: 帅鹏的博客 | BY Blog
+title: BY 姜海鹏
+SEOTitle: 帅鹏的博客 | BY 姜海鹏
 header-img: img/post-bg-desk.jpg
 email: 1033326818@qq.com
 description: "hello world"
-keyword: "BY, BY Blog, 帅鹏的博客, 帅鹏, 姜海鹏, js, react, web,移动互联网分析"
+keyword: " 帅鹏的博客, 帅鹏, 姜海鹏, js, react, web,移动互联网分析"
 url: "http://jiang1033326818.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
-github_repo: "https://github.com/qiubaiying/qiubaiying.github.io.git" # you code repository
+github_repo: "https://github.com/jiang1033326818" # you code repository
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
