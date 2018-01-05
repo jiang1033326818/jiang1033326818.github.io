@@ -16,9 +16,9 @@ tags:
 
 使用过react的小伙伴都会觉得react或者redux用起来很方便很好用,其实Native也是很非常棒的
 
-就是这货：
+就是这个(图片来自http://facebook.github.io/react-native/)：
 
-![](https://ws4.sinaimg.cn/large/006tNc79gy1fhxct12udnj311x0s3grw.jpg)
+![](https://media.giphy.com/media/13WZniThXy0hSE/giphy.gif)
 
 
 ## 正文
