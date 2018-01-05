@@ -25,7 +25,7 @@ tags:
 
 ----
 
-###运行说明:
+#运行说明:
 
 
 首先需要安装好运行React Native的相关环境，
@@ -44,7 +44,7 @@ tags:
 
 
 
-使用说明：  
+#使用说明：  
 1.运行前，先关掉终端(可能终端开启了其他的service)  
 
 
@@ -54,9 +54,13 @@ tags:
 
 报错： Unable to resolve module react-timer-mixin from  ***  
 
-工程目录下执行：  
+工程目录下执行：
+  
+  
+```shell
+    npm i react-timer-mixin --save  
+```
 
-npm i react-timer-mixin --save  
 
 然后关掉终端，重新运行  
 
@@ -74,9 +78,9 @@ npm i react-timer-mixin --save
 
 
 
-![image](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/1.png)  
+![](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/1.png?raw=true)  
 
 
-![image](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/2.png)  
+![](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/2.png?raw=true)  
 
-![image](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/3.png)  
+![](https://github.com/lookingstars/RNMeituan/blob/master/screenshots/3.png?raw=true)  
