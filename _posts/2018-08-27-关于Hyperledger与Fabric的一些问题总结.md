@@ -1,9 +1,9 @@
 ---
 layout:     post
 title:      关于Hyperledger与Fabric的一些问题和总结
-subtitle:   区块链  能源互联网
+subtitle:   Hyperledger与Fabric的一些问题
 date:       2018-08-30
-author:     BY
+author:     姜海鹏
 header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
