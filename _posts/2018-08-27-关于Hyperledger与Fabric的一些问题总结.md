@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      关于Hyperledger   Fabric的一些问题和总结
+title:      关于Hyperledger与Fabric的一些问题和总结
 subtitle:   区块链  能源互联网
 date:       2018-08-30
 author:     BY
