@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      关于Hyperledger与Fabric的一些问题和总结
-subtitle:   Hyperledger与Fabric的一些问题
-date:       2018-08-30
+title:      关于Hyperledger与Fabric
+subtitle:   Hyperledger与Fabric
+date:       2018-08-27
 author:     姜海鹏
 header-img: img/post-bg-coffee.jpeg
 catalog: true
