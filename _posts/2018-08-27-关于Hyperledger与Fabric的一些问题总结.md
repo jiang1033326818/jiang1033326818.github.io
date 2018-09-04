@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      关于Hyperledger与Fabric
+title:      Hyperledger与Fabric
 subtitle:   Hyperledger与Fabric
 date:       2018-08-27
 author:     姜海鹏
