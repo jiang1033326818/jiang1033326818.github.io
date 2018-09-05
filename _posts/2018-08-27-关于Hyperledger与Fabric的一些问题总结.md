@@ -1,16 +1,15 @@
 ---
 layout:     post
-title:      Hyperledger与Fabric
-subtitle:   Hyperledger与Fabric
+title:      Hyperledger和Fabric
+subtitle:   Hyperledger和Fabric
 date:       2018-08-27
-author:     姜海鹏
-header-img: img/post-bg-coffee.jpeg
+author:     BY
+header-img: img/post-bg-swift.jpg
 catalog: true
 tags:
-    - 区块链
-    - 开发技巧
-	- Hyperledger
-	- Fabric
+    - iOS
+    - Swift
+    - IBInspectable
 ---
 
 已经有半年没有更新博客了,主要是最近遇到了一些问题,心情很差,不过近期已经调整过来了,继续更新
