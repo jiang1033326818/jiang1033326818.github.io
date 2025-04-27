@@ -7,7 +7,7 @@ author:     彩虹哥
 header-img: img/post-bg-hacker.jpg
 catalog: true
 tags:
-    - Xcode
+    - React
     - 开发技巧
 ---
 
